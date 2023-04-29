@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.24.0",
-    "core-js": "^3.6.5",
+    "core-js": "^3.30.0",
     "dayjs": "^1.10.7",
     "sass-loader": "^12.3.0",
     "uuid": "^8.3.2",
